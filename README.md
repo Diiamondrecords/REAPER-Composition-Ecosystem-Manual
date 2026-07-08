@@ -6260,6 +6260,236 @@ Closing Quote
 "Music is not the art of adding more notes. It is the art of making every note matter."
 
 End of Appendix A
+Appendix B
+100 Questions Every Composer Should Ask
+
+"The quality of your music depends on the quality of the questions you ask while writing it."
+
+Before Writing
+
+1. Why am I writing this piece?
+
+2. What emotion should remain after the last note?
+
+3. Who is the listener?
+
+4. What style best communicates this idea?
+
+5. What makes this composition different?
+
+6. What should the audience remember?
+
+7. Is this music telling a story?
+
+8. What is the emotional destination?
+
+9. What is the musical destination?
+
+10. What inspired this idea?
+
+Song Form
+
+11. Does the introduction create curiosity?
+
+12. Does the first section establish identity?
+
+13. Does every section have a purpose?
+
+14. Does the chorus feel earned?
+
+15. Does the bridge introduce meaningful contrast?
+
+16. Does the ending satisfy the journey?
+
+17. Could one section be shorter?
+
+18. Could one section be longer?
+
+19. Is there enough contrast between sections?
+
+20. Does the song ever surprise the listener?
+
+Harmony
+
+21. Does the harmony support the emotion?
+
+22. Are chord changes natural?
+
+23. Is voice leading smooth?
+
+24. Have I used unnecessary complexity?
+
+25. Would fewer chords work better?
+
+26. Should tension last longer?
+
+27. Should the harmony resolve sooner?
+
+28. Would borrowed harmony improve this section?
+
+29. Does every modulation have a purpose?
+
+30. Does harmony help the melody?
+
+Melody
+
+31. Can someone remember this melody after hearing it once?
+
+32. Is the contour interesting?
+
+33. Is there enough repetition?
+
+34. Is there enough variation?
+
+35. Does the melody breathe?
+
+36. Does it answer itself?
+
+37. Is the climax placed correctly?
+
+38. Is anything unnecessary?
+
+39. Would fewer notes improve clarity?
+
+40. Does this melody belong to this harmony?
+
+Rhythm
+
+41. Does rhythm create movement?
+
+42. Is the groove consistent?
+
+43. Is there enough syncopation?
+
+44. Is there too much syncopation?
+
+45. Does rhythm support the style?
+
+46. Where should silence occur?
+
+47. Does rhythm create anticipation?
+
+48. Does rhythm become repetitive?
+
+49. Should one section be calmer?
+
+50. Should one section become more active?
+
+Bass
+
+51. Does the bass support the harmony?
+
+52. Does it support the groove?
+
+53. Is the bass moving enough?
+
+54. Is it moving too much?
+
+55. Does it interact with the kick?
+
+56. Does it complement the melody?
+
+57. Is there enough rhythmic variety?
+
+58. Does register remain consistent?
+
+59. Does the bass help transitions?
+
+60. Would fewer notes improve the groove?
+
+Arrangement
+
+61. Does every instrument have a purpose?
+
+62. Are too many instruments playing?
+
+63. Does the arrangement breathe?
+
+64. Is there enough contrast?
+
+65. Does instrumentation evolve?
+
+66. Does density increase naturally?
+
+67. Where should instruments disappear?
+
+68. Where should new instruments appear?
+
+69. Does orchestration match emotion?
+
+70. Does every entrance matter?
+
+Theme Development
+
+71. Does the listener recognize the theme?
+
+72. Has it evolved?
+
+73. Have I changed too much?
+
+74. Have I changed too little?
+
+75. Does variation strengthen identity?
+
+76. Would another rhythmic variation help?
+
+77. Would inversion improve this section?
+
+78. Could fragmentation create interest?
+
+79. Should the theme return sooner?
+
+80. Does the final appearance feel satisfying?
+
+Refinement
+
+81. What can I remove?
+
+82. What can become simpler?
+
+83. What deserves more attention?
+
+84. What sounds repetitive?
+
+85. What sounds forced?
+
+86. Does every transition work?
+
+87. Are dynamics effective?
+
+88. Does the composition flow naturally?
+
+89. Is every note justified?
+
+90. Have I listened without editing?
+
+Final Evaluation
+
+91. Does the composition achieve its emotional goal?
+
+92. Would I enjoy hearing it tomorrow?
+
+93. Would someone else remember it?
+
+94. What is the strongest moment?
+
+95. What is the weakest moment?
+
+96. What did I learn while writing it?
+
+97. What will I improve next time?
+
+98. Is the composition finished?
+
+99. Am I changing it because it needs improvement or because I'm afraid to finish?
+
+100. Am I proud to put my name on this piece?
+
+Professional Habit: Before exporting your final mix, spend five minutes answering these questions honestly. They will often reveal improvements that are easy to miss during the excitement of composing.
+
+End of Appendix B
+
+
 
 
 
